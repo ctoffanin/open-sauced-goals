@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "open-sauced/goals-template",
+    "stargazers_count": 19,
+    "open_issues_count": 1,
+    "forks_count": 8
+  },
+  {
     "full_name": "EddieHubCommunity/api",
     "stargazers_count": 48,
     "open_issues_count": 8,
@@ -25,8 +31,8 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 349830,
-    "open_issues_count": 211,
+    "stargazers_count": 349832,
+    "open_issues_count": 212,
     "forks_count": 29052
   },
   {

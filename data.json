@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "prettier/prettier",
+    "stargazers_count": 43426,
+    "open_issues_count": 1125,
+    "forks_count": 3423
+  },
+  {
     "full_name": "forem/forem",
     "stargazers_count": 19386,
     "open_issues_count": 507,
@@ -37,8 +43,8 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 349899,
-    "open_issues_count": 199,
+    "stargazers_count": 349900,
+    "open_issues_count": 200,
     "forks_count": 29059
   },
   {

@@ -1,44 +1,50 @@
 [
   {
+    "full_name": "ryanmcdermott/clean-code-javascript",
+    "stargazers_count": 70107,
+    "open_issues_count": 64,
+    "forks_count": 9447
+  },
+  {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 83870,
+    "stargazers_count": 83886,
     "open_issues_count": 497,
-    "forks_count": 32420
+    "forks_count": 32424
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 156460,
+    "stargazers_count": 156472,
     "open_issues_count": 133,
-    "forks_count": 30797
+    "forks_count": 30799
   },
   {
     "full_name": "basarat/typescript-book",
-    "stargazers_count": 17812,
+    "stargazers_count": 17817,
     "open_issues_count": 145,
     "forks_count": 2257
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 203189,
+    "stargazers_count": 203226,
     "open_issues_count": 185,
-    "forks_count": 28955
+    "forks_count": 28961
   },
   {
     "full_name": "raycast/extensions",
-    "stargazers_count": 1968,
-    "open_issues_count": 287,
+    "stargazers_count": 1969,
+    "open_issues_count": 285,
     "forks_count": 720
   },
   {
     "full_name": "prettier/prettier",
-    "stargazers_count": 43451,
+    "stargazers_count": 43454,
     "open_issues_count": 1124,
-    "forks_count": 3429
+    "forks_count": 3428
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 19394,
-    "open_issues_count": 514,
+    "stargazers_count": 19396,
+    "open_issues_count": 509,
     "forks_count": 3442
   },
   {
@@ -62,7 +68,7 @@
   {
     "full_name": "EddieHubCommunity/LinkFree",
     "stargazers_count": 857,
-    "open_issues_count": 63,
+    "open_issues_count": 61,
     "forks_count": 791
   },
   {
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 350186,
-    "open_issues_count": 200,
-    "forks_count": 29091
+    "stargazers_count": 350208,
+    "open_issues_count": 201,
+    "forks_count": 29096
   },
   {
     "full_name": "freeCodeCamp/chapter",
@@ -85,14 +91,14 @@
   },
   {
     "full_name": "Virtual-Coffee/virtualcoffee.io",
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 15,
-    "forks_count": 144
+    "forks_count": 145
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 728,
     "open_issues_count": 16,
-    "forks_count": 329
+    "forks_count": 331
   }
 ]

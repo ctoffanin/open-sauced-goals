@@ -1,15 +1,15 @@
 [
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 53288,
-    "open_issues_count": 260,
-    "forks_count": 10373
+    "stargazers_count": 53295,
+    "open_issues_count": 252,
+    "forks_count": 10372
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 134743,
-    "open_issues_count": 7324,
-    "forks_count": 23000
+    "stargazers_count": 134760,
+    "open_issues_count": 7339,
+    "forks_count": 23008
   },
   {
     "full_name": "open-sauced/docs.opensauced.pizza",
@@ -19,63 +19,63 @@
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 98,
+    "stargazers_count": 100,
     "open_issues_count": 27,
-    "forks_count": 44
+    "forks_count": 43
   },
   {
     "full_name": "chartjs/Chart.js",
-    "stargazers_count": 57630,
-    "open_issues_count": 170,
-    "forks_count": 11541
+    "stargazers_count": 57639,
+    "open_issues_count": 172,
+    "forks_count": 11544
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 70153,
+    "stargazers_count": 70177,
     "open_issues_count": 64,
-    "forks_count": 9457
+    "forks_count": 9461
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 83940,
-    "open_issues_count": 502,
-    "forks_count": 32442
+    "stargazers_count": 83962,
+    "open_issues_count": 507,
+    "forks_count": 32450
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 156575,
-    "open_issues_count": 133,
-    "forks_count": 30809
+    "stargazers_count": 156627,
+    "open_issues_count": 134,
+    "forks_count": 30810
   },
   {
     "full_name": "basarat/typescript-book",
-    "stargazers_count": 17831,
+    "stargazers_count": 17837,
     "open_issues_count": 145,
-    "forks_count": 2257
+    "forks_count": 2258
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 203489,
+    "stargazers_count": 203605,
     "open_issues_count": 187,
-    "forks_count": 29000
+    "forks_count": 29005
   },
   {
     "full_name": "raycast/extensions",
-    "stargazers_count": 1977,
-    "open_issues_count": 268,
-    "forks_count": 727
+    "stargazers_count": 1993,
+    "open_issues_count": 280,
+    "forks_count": 731
   },
   {
     "full_name": "prettier/prettier",
-    "stargazers_count": 43467,
-    "open_issues_count": 1126,
-    "forks_count": 3432
+    "stargazers_count": 43475,
+    "open_issues_count": 1128,
+    "forks_count": 3433
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 19401,
-    "open_issues_count": 495,
-    "forks_count": 3443
+    "stargazers_count": 19405,
+    "open_issues_count": 498,
+    "forks_count": 3446
   },
   {
     "full_name": "open-sauced/goals-template",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "EddieHubCommunity/api",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 8,
     "forks_count": 54
   },
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "EddieHubCommunity/LinkFree",
-    "stargazers_count": 860,
-    "open_issues_count": 62,
-    "forks_count": 793
+    "stargazers_count": 861,
+    "open_issues_count": 63,
+    "forks_count": 795
   },
   {
     "full_name": "BekahHW/Moms-Learn-Tech",
@@ -109,14 +109,14 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 350359,
-    "open_issues_count": 182,
-    "forks_count": 29117
+    "stargazers_count": 350429,
+    "open_issues_count": 183,
+    "forks_count": 29116
   },
   {
     "full_name": "freeCodeCamp/chapter",
     "stargazers_count": 1825,
-    "open_issues_count": 56,
+    "open_issues_count": 58,
     "forks_count": 306
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 729,
+    "stargazers_count": 730,
     "open_issues_count": 16,
-    "forks_count": 335
+    "forks_count": 337
   }
 ]

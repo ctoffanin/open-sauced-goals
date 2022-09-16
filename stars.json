@@ -1,43 +1,49 @@
 [
   {
+    "full_name": "EddieHubCommunity/awesome-github-profiles",
+    "stargazers_count": 935,
+    "open_issues_count": 56,
+    "forks_count": 617
+  },
+  {
     "full_name": "FrancescoXX/4c-site",
     "stargazers_count": 68,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 43
   },
   {
     "full_name": "FrancescoXX/free-Web3-resources",
-    "stargazers_count": 2458,
+    "stargazers_count": 2462,
     "open_issues_count": 6,
-    "forks_count": 279
+    "forks_count": 281
   },
   {
     "full_name": "wesbos/dotfiles",
-    "stargazers_count": 1134,
+    "stargazers_count": 1133,
     "open_issues_count": 2,
     "forks_count": 273
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 158949,
-    "open_issues_count": 131,
-    "forks_count": 31136
+    "stargazers_count": 159053,
+    "open_issues_count": 132,
+    "forks_count": 31151
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 52981,
+    "stargazers_count": 53078,
     "open_issues_count": 125,
-    "forks_count": 5482
+    "forks_count": 5487
   },
   {
     "full_name": "git-tips/tips",
-    "stargazers_count": 20433,
-    "open_issues_count": 28,
-    "forks_count": 1735
+    "stargazers_count": 20441,
+    "open_issues_count": 29,
+    "forks_count": 1733
   },
   {
     "full_name": "loverajoel/jstips",
-    "stargazers_count": 12268,
+    "stargazers_count": 12274,
     "open_issues_count": 9,
     "forks_count": 805
   },
@@ -49,8 +55,8 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 248176,
-    "open_issues_count": 45,
-    "forks_count": 50627
+    "stargazers_count": 248836,
+    "open_issues_count": 40,
+    "forks_count": 50705
   }
 ]

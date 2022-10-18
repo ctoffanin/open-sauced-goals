@@ -1,57 +1,63 @@
 [
   {
+    "full_name": "YuriDevAT/sos-animals",
+    "stargazers_count": 20,
+    "open_issues_count": 13,
+    "forks_count": 6
+  },
+  {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 6109,
+    "stargazers_count": 6113,
     "open_issues_count": 214,
-    "forks_count": 11175
+    "forks_count": 11180
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 10701,
-    "open_issues_count": 146,
-    "forks_count": 648
+    "stargazers_count": 10761,
+    "open_issues_count": 129,
+    "forks_count": 659
   },
   {
     "full_name": "BeccaLyria/discord-bot",
-    "stargazers_count": 93,
-    "open_issues_count": 18,
+    "stargazers_count": 94,
+    "open_issues_count": 21,
     "forks_count": 67
   },
   {
     "full_name": "FrancescoXX/4c-projects",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 11
   },
   {
     "full_name": "Njong392/Abbreve",
-    "stargazers_count": 37,
-    "open_issues_count": 19,
-    "forks_count": 50
+    "stargazers_count": 38,
+    "open_issues_count": 16,
+    "forks_count": 54
   },
   {
     "full_name": "rohitdasu/projectmate",
-    "stargazers_count": 49,
-    "open_issues_count": 9,
-    "forks_count": 41
+    "stargazers_count": 50,
+    "open_issues_count": 15,
+    "forks_count": 42
   },
   {
     "full_name": "ykdojo/active-repos-for-contributing",
-    "stargazers_count": 214,
+    "stargazers_count": 215,
     "open_issues_count": 8,
-    "forks_count": 44
+    "forks_count": 43
   },
   {
     "full_name": "TechSquidTV/Shoutify",
-    "stargazers_count": 162,
+    "stargazers_count": 165,
     "open_issues_count": 5,
-    "forks_count": 18
+    "forks_count": 20
   },
   {
     "full_name": "asakatsuOrg/AsaKatsuProject",
-    "stargazers_count": 27,
-    "open_issues_count": 24,
-    "forks_count": 22
+    "stargazers_count": 35,
+    "open_issues_count": 33,
+    "forks_count": 25
   },
   {
     "full_name": "EddieHubCommunity/api",
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "EddieHubCommunity/good-first-issue-finder",
-    "stargazers_count": 174,
-    "open_issues_count": 26,
-    "forks_count": 123
+    "stargazers_count": 176,
+    "open_issues_count": 30,
+    "forks_count": 128
   },
   {
     "full_name": "ykdojo/defaang",
-    "stargazers_count": 430,
-    "open_issues_count": 46,
-    "forks_count": 108
+    "stargazers_count": 443,
+    "open_issues_count": 40,
+    "forks_count": 111
   },
   {
     "full_name": "psanders/awesome-coffee",
@@ -79,38 +85,38 @@
   },
   {
     "full_name": "Dun-sin/Code-Magic",
-    "stargazers_count": 175,
-    "open_issues_count": 8,
-    "forks_count": 116
+    "stargazers_count": 180,
+    "open_issues_count": 4,
+    "forks_count": 118
   },
   {
     "full_name": "AccessibleForAll/AccessibleWebDev",
-    "stargazers_count": 29,
-    "open_issues_count": 5,
-    "forks_count": 50
+    "stargazers_count": 37,
+    "open_issues_count": 13,
+    "forks_count": 52
   },
   {
     "full_name": "EddieHubCommunity/awesome-github-profiles",
     "stargazers_count": 988,
-    "open_issues_count": 77,
+    "open_issues_count": 78,
     "forks_count": 669
   },
   {
     "full_name": "FrancescoXX/free-Web3-resources",
-    "stargazers_count": 2742,
-    "open_issues_count": 22,
-    "forks_count": 379
+    "stargazers_count": 2766,
+    "open_issues_count": 13,
+    "forks_count": 383
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 53833,
+    "stargazers_count": 53947,
     "open_issues_count": 125,
-    "forks_count": 5521
+    "forks_count": 5530
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 251734,
-    "open_issues_count": 232,
-    "forks_count": 51600
+    "stargazers_count": 252175,
+    "open_issues_count": 250,
+    "forks_count": 51756
   }
 ]

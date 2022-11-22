@@ -1,13 +1,13 @@
 [
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 27235,
-    "open_issues_count": 711,
-    "forks_count": 2240
+    "stargazers_count": 27308,
+    "open_issues_count": 724,
+    "forks_count": 2252
   },
   {
     "full_name": "Dun-sin/react-open-source-projects",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -31,81 +31,81 @@
   },
   {
     "full_name": "avie-dev/spaceslounge",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 8,
     "forks_count": 10
   },
   {
     "full_name": "Dun-sin/Whisper",
     "stargazers_count": 114,
-    "open_issues_count": 19,
+    "open_issues_count": 17,
     "forks_count": 93
   },
   {
     "full_name": "YuriDevAT/sos-animals",
     "stargazers_count": 21,
-    "open_issues_count": 15,
+    "open_issues_count": 13,
     "forks_count": 8
   },
   {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 6177,
-    "open_issues_count": 213,
-    "forks_count": 11237
+    "stargazers_count": 6182,
+    "open_issues_count": 212,
+    "forks_count": 11243
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 12570,
-    "open_issues_count": 151,
-    "forks_count": 791
+    "stargazers_count": 12609,
+    "open_issues_count": 157,
+    "forks_count": 797
   },
   {
     "full_name": "BeccaLyria/discord-bot",
     "stargazers_count": 98,
-    "open_issues_count": 8,
-    "forks_count": 69
+    "open_issues_count": 10,
+    "forks_count": 68
   },
   {
     "full_name": "Njong392/Abbreve",
-    "stargazers_count": 48,
-    "open_issues_count": 20,
-    "forks_count": 66
+    "stargazers_count": 47,
+    "open_issues_count": 16,
+    "forks_count": 65
   },
   {
     "full_name": "rohitdasu/projectmate",
-    "stargazers_count": 60,
+    "stargazers_count": 59,
     "open_issues_count": 15,
     "forks_count": 50
   },
   {
     "full_name": "csdojo-defaang/active-repos-for-contributing",
-    "stargazers_count": 243,
+    "stargazers_count": 244,
     "open_issues_count": 6,
     "forks_count": 45
   },
   {
     "full_name": "TechSquidTV/Shoutify",
-    "stargazers_count": 181,
+    "stargazers_count": 183,
     "open_issues_count": 5,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "asakatsuOrg/AsaKatsuProject",
-    "stargazers_count": 48,
-    "open_issues_count": 33,
+    "stargazers_count": 49,
+    "open_issues_count": 30,
     "forks_count": 30
   },
   {
     "full_name": "EddieHubCommunity/api",
     "stargazers_count": 56,
-    "open_issues_count": 11,
+    "open_issues_count": 10,
     "forks_count": 57
   },
   {
     "full_name": "EddieHubCommunity/good-first-issue-finder",
-    "stargazers_count": 188,
+    "stargazers_count": 190,
     "open_issues_count": 22,
-    "forks_count": 134
+    "forks_count": 136
   },
   {
     "full_name": "csdojo-defaang/defaang",
@@ -121,38 +121,38 @@
   },
   {
     "full_name": "Dun-sin/Code-Magic",
-    "stargazers_count": 195,
-    "open_issues_count": 4,
+    "stargazers_count": 202,
+    "open_issues_count": 5,
     "forks_count": 129
   },
   {
     "full_name": "AccessibleForAll/AccessibleWebDev",
-    "stargazers_count": 59,
-    "open_issues_count": 0,
+    "stargazers_count": 63,
+    "open_issues_count": 1,
     "forks_count": 59
   },
   {
     "full_name": "EddieHubCommunity/awesome-github-profiles",
-    "stargazers_count": 1025,
-    "open_issues_count": 65,
-    "forks_count": 703
+    "stargazers_count": 1029,
+    "open_issues_count": 67,
+    "forks_count": 705
   },
   {
     "full_name": "FrancescoXX/free-Web3-resources",
-    "stargazers_count": 2915,
+    "stargazers_count": 2927,
     "open_issues_count": 4,
-    "forks_count": 428
+    "forks_count": 431
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 55179,
-    "open_issues_count": 123,
-    "forks_count": 5596
+    "stargazers_count": 55329,
+    "open_issues_count": 122,
+    "forks_count": 5600
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 255385,
-    "open_issues_count": 53,
-    "forks_count": 52504
+    "stargazers_count": 256339,
+    "open_issues_count": 56,
+    "forks_count": 52583
   }
 ]

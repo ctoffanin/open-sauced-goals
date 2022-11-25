@@ -1,13 +1,25 @@
 [
   {
+    "full_name": "medusajs/medusa",
+    "stargazers_count": 15076,
+    "open_issues_count": 229,
+    "forks_count": 989
+  },
+  {
+    "full_name": "WebXDAO/DevConf",
+    "stargazers_count": 22,
+    "open_issues_count": 9,
+    "forks_count": 4
+  },
+  {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 27308,
-    "open_issues_count": 724,
-    "forks_count": 2252
+    "stargazers_count": 27408,
+    "open_issues_count": 729,
+    "forks_count": 2259
   },
   {
     "full_name": "Dun-sin/react-open-source-projects",
-    "stargazers_count": 16,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -37,9 +49,9 @@
   },
   {
     "full_name": "Dun-sin/Whisper",
-    "stargazers_count": 114,
+    "stargazers_count": 115,
     "open_issues_count": 17,
-    "forks_count": 93
+    "forks_count": 92
   },
   {
     "full_name": "YuriDevAT/sos-animals",
@@ -49,33 +61,33 @@
   },
   {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 6182,
-    "open_issues_count": 212,
-    "forks_count": 11243
+    "stargazers_count": 6186,
+    "open_issues_count": 213,
+    "forks_count": 11252
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 12609,
-    "open_issues_count": 157,
-    "forks_count": 797
+    "stargazers_count": 13120,
+    "open_issues_count": 167,
+    "forks_count": 824
   },
   {
     "full_name": "BeccaLyria/discord-bot",
     "stargazers_count": 98,
-    "open_issues_count": 10,
+    "open_issues_count": 8,
     "forks_count": 68
   },
   {
     "full_name": "Njong392/Abbreve",
     "stargazers_count": 47,
-    "open_issues_count": 16,
-    "forks_count": 65
+    "open_issues_count": 15,
+    "forks_count": 66
   },
   {
     "full_name": "rohitdasu/projectmate",
-    "stargazers_count": 59,
-    "open_issues_count": 15,
-    "forks_count": 50
+    "stargazers_count": 60,
+    "open_issues_count": 13,
+    "forks_count": 49
   },
   {
     "full_name": "csdojo-defaang/active-repos-for-contributing",
@@ -85,14 +97,14 @@
   },
   {
     "full_name": "TechSquidTV/Shoutify",
-    "stargazers_count": 183,
+    "stargazers_count": 186,
     "open_issues_count": 5,
     "forks_count": 23
   },
   {
     "full_name": "asakatsuOrg/AsaKatsuProject",
     "stargazers_count": 49,
-    "open_issues_count": 30,
+    "open_issues_count": 31,
     "forks_count": 30
   },
   {
@@ -103,13 +115,13 @@
   },
   {
     "full_name": "EddieHubCommunity/good-first-issue-finder",
-    "stargazers_count": 190,
-    "open_issues_count": 22,
-    "forks_count": 136
+    "stargazers_count": 191,
+    "open_issues_count": 24,
+    "forks_count": 137
   },
   {
     "full_name": "csdojo-defaang/defaang",
-    "stargazers_count": 486,
+    "stargazers_count": 487,
     "open_issues_count": 42,
     "forks_count": 118
   },
@@ -121,38 +133,38 @@
   },
   {
     "full_name": "Dun-sin/Code-Magic",
-    "stargazers_count": 202,
+    "stargazers_count": 203,
     "open_issues_count": 5,
-    "forks_count": 129
+    "forks_count": 128
   },
   {
     "full_name": "AccessibleForAll/AccessibleWebDev",
-    "stargazers_count": 63,
+    "stargazers_count": 65,
     "open_issues_count": 1,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "EddieHubCommunity/awesome-github-profiles",
-    "stargazers_count": 1029,
-    "open_issues_count": 67,
-    "forks_count": 705
+    "stargazers_count": 1035,
+    "open_issues_count": 66,
+    "forks_count": 707
   },
   {
     "full_name": "FrancescoXX/free-Web3-resources",
-    "stargazers_count": 2927,
+    "stargazers_count": 2951,
     "open_issues_count": 4,
-    "forks_count": 431
+    "forks_count": 435
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 55329,
+    "stargazers_count": 55433,
     "open_issues_count": 122,
-    "forks_count": 5600
+    "forks_count": 5603
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 256339,
-    "open_issues_count": 56,
-    "forks_count": 52583
+    "stargazers_count": 256708,
+    "open_issues_count": 53,
+    "forks_count": 52641
   }
 ]

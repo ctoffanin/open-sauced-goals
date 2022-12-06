@@ -1,14 +1,20 @@
 [
   {
+    "full_name": "ericwbailey/accessible-html-content-patterns",
+    "stargazers_count": 118,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
     "full_name": "peaceiris/actions-gh-pages",
-    "stargazers_count": 3502,
+    "stargazers_count": 3511,
     "open_issues_count": 52,
-    "forks_count": 281
+    "forks_count": 282
   },
   {
     "full_name": "adropofilm/react-todo",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -25,25 +31,25 @@
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 15288,
+    "stargazers_count": 15323,
     "open_issues_count": 233,
-    "forks_count": 1011
+    "forks_count": 1014
   },
   {
     "full_name": "WebXDAO/DevConf",
-    "stargazers_count": 23,
-    "open_issues_count": 10,
-    "forks_count": 5
+    "stargazers_count": 24,
+    "open_issues_count": 11,
+    "forks_count": 7
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 27552,
-    "open_issues_count": 739,
-    "forks_count": 2273
+    "stargazers_count": 27618,
+    "open_issues_count": 742,
+    "forks_count": 2280
   },
   {
     "full_name": "Dun-sin/react-open-source-projects",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -67,43 +73,43 @@
   },
   {
     "full_name": "avie-dev/spaceslounge",
-    "stargazers_count": 13,
+    "stargazers_count": 12,
     "open_issues_count": 8,
     "forks_count": 10
   },
   {
     "full_name": "Dun-sin/Whisper",
-    "stargazers_count": 116,
+    "stargazers_count": 118,
     "open_issues_count": 17,
-    "forks_count": 92
+    "forks_count": 93
   },
   {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 6193,
+    "stargazers_count": 6200,
     "open_issues_count": 214,
-    "forks_count": 11256
+    "forks_count": 11260
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 13773,
-    "open_issues_count": 142,
-    "forks_count": 857
+    "stargazers_count": 13844,
+    "open_issues_count": 158,
+    "forks_count": 880
   },
   {
     "full_name": "BeccaLyria/discord-bot",
     "stargazers_count": 98,
-    "open_issues_count": 7,
+    "open_issues_count": 9,
     "forks_count": 67
   },
   {
     "full_name": "Njong392/Abbreve",
     "stargazers_count": 48,
     "open_issues_count": 12,
-    "forks_count": 66
+    "forks_count": 67
   },
   {
     "full_name": "rohitdasu/projectmate",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 13,
     "forks_count": 48
   },
@@ -115,14 +121,14 @@
   },
   {
     "full_name": "TechSquidTV/Shoutify",
-    "stargazers_count": 189,
+    "stargazers_count": 192,
     "open_issues_count": 5,
     "forks_count": 24
   },
   {
     "full_name": "asakatsuOrg/AsaKatsuProject",
     "stargazers_count": 49,
-    "open_issues_count": 34,
+    "open_issues_count": 33,
     "forks_count": 30
   },
   {
@@ -133,15 +139,15 @@
   },
   {
     "full_name": "EddieHubCommunity/good-first-issue-finder",
-    "stargazers_count": 199,
+    "stargazers_count": 198,
     "open_issues_count": 22,
-    "forks_count": 138
+    "forks_count": 139
   },
   {
     "full_name": "csdojo-defaang/defaang",
     "stargazers_count": 488,
     "open_issues_count": 42,
-    "forks_count": 118
+    "forks_count": 117
   },
   {
     "full_name": "psanders/awesome-coffee",
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "Dun-sin/Code-Magic",
-    "stargazers_count": 210,
+    "stargazers_count": 211,
     "open_issues_count": 4,
     "forks_count": 131
   },
   {
     "full_name": "AccessibleForAll/AccessibleWebDev",
     "stargazers_count": 67,
-    "open_issues_count": 2,
-    "forks_count": 61
+    "open_issues_count": 0,
+    "forks_count": 63
   },
   {
     "full_name": "EddieHubCommunity/awesome-github-profiles",
-    "stargazers_count": 1039,
+    "stargazers_count": 1042,
     "open_issues_count": 67,
-    "forks_count": 707
+    "forks_count": 708
   },
   {
     "full_name": "FrancescoXX/free-Web3-resources",
-    "stargazers_count": 3044,
+    "stargazers_count": 3055,
     "open_issues_count": 5,
-    "forks_count": 458
-  },
-  {
-    "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 55685,
-    "open_issues_count": 123,
-    "forks_count": 5619
+    "forks_count": 460
   }
 ]
